@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Media Controller", "Media Controller\Media Controller.cproj", "{4D3A7889-904D-49A9-B126-C41DD05A41A2}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Bootloader (Not yet used)", "Bootloader\Bootloader (not yet used).cproj", "{C61546D5-0E70-44D2-AD15-8C39C730BF3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D3A7889-904D-49A9-B126-C41DD05A41A2}.Debug|AVR.ActiveCfg = Debug|AVR
+		{4D3A7889-904D-49A9-B126-C41DD05A41A2}.Debug|AVR.Build.0 = Debug|AVR
+		{4D3A7889-904D-49A9-B126-C41DD05A41A2}.Release|AVR.ActiveCfg = Release|AVR
+		{4D3A7889-904D-49A9-B126-C41DD05A41A2}.Release|AVR.Build.0 = Release|AVR
+		{C61546D5-0E70-44D2-AD15-8C39C730BF3D}.Debug|AVR.ActiveCfg = Debug|AVR
+		{C61546D5-0E70-44D2-AD15-8C39C730BF3D}.Release|AVR.ActiveCfg = Release|AVR
+		{C61546D5-0E70-44D2-AD15-8C39C730BF3D}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
